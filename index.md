@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
+
+My name is William and I am a passionate learner. 
 
 You can use the [editor on GitHub](https://github.com/WilliamPourmajidi/williampourmajidi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
