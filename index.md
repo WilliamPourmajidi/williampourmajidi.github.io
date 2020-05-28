@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Welcome to my GitHub Page
 
 My name is William and I am a passionate learner. 
 
